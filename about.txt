@@ -1,0 +1,10 @@
+Open MATLAB
+Open the file resistor_code.m from the Folder
+Run the file resistor_code.m from the Folder
+A GUI will appear
+Choose the colours of the Resistor 
+Value of the Resistor will be displayed.
+
+
+
+*Thank you*
